@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning React and mastering Vue
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me pavvyb@icloud.com
+- 📫 How to reach me fruityscript@gmail.com
 
 <!---
 pavvyb/pavvyb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
